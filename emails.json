@@ -1,0 +1,46 @@
+{
+"emails": [
+    {
+        "id": "1",
+        "title": "lorem ipsum",
+		"from": "lorem ipsum",
+		"to": "lorem ipsum",
+        "message": "lorem ipsum"
+    },
+    {
+        "id": "2",
+        "title": "lorem ipsum",
+		"from": "lorem ipsum",
+		"to": "lorem ipsum",
+        "message": "lorem ipsum"
+    },
+     {
+        "id": "3",
+        "title": "lorem ipsum",
+		"from": "lorem ipsum",
+		"to": "lorem ipsum",
+        "message": "lorem ipsum"
+    },
+    {
+        "id": "4",
+        "title": "lorem ipsum",
+		"from": "lorem ipsum",
+		"to": "lorem ipsum",
+        "message": "lorem ipsum"
+    },
+    {
+        "id": "5",
+        "title": "lorem ipsum",
+		"from": "lorem ipsum",
+		"to": "lorem ipsum",
+        "message": "lorem ipsum"
+    },
+    {
+        "id": "6",
+        "title": "lorem ipsum",
+		"from": "lorem ipsum",
+		"to": "lorem ipsum",
+        "message": "lorem ipsum"
+    }
+    ]
+}
